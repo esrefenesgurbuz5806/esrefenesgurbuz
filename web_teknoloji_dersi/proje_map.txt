@@ -1,0 +1,24 @@
+ WEB TEKNOLOJİLERİ ÖDEVİ
+                                        EŞREF ENES GÜRBÜZ
+                                        G19121093
+                                        GITHUB LİNKİ:https://github.com/esrefenesgurbuz5806/esrefenesgurbuz.git
+ÖDEVİN AMACI:
+
+    Memleketimi tanıtan kişisel bir web sitesi geliştirmek.
+
+ÖDEVİN İÇERİĞİ:
+    -Hakkımda bilgi içeren bir giriş sayfası.
+    -Eğitim bilgilerimi  tablo halinde ve özgeçmişimi içeren bir sayfa.
+    -Şehrim Sayfasının başında ya da sonunda en az 4 resimden oluşan bir slider yer almalıdır. Slider’da yer alan resimlere tıklandığında ilgili resimlere ait  içeriklere ulaşan linkler olmalı.
+    -Takımımız linkli bir sayfada şehrin takımını tanıtan bir sayfa.
+    -Sitede bir login sayfası yer almalı. Login sayfasında  öğrenci numaranıza ait kullanıcı adı  ve  şifre istenecek. 
+      Girilen kullanıcı adı ve şifre doğru ise hoşgeldiniz yazısı çıkacak.Değilse login sayfasına geri dönecek.
+      Aynı zamanda login sayfasında kullanıcı adı ve şifre alanının boş geçilmemesi ve kullanıcı adının mail adresi olup olmadığı kontrol edilmeli.
+    -Sitede  bir iletişim sayfası olacak.
+    -İletişim formundaki gerekli kontrol işlemleri  javascript kullanılarak denetlenecek. 
+    -Form, temizle ve gönder butonları içerecek.
+    -Gönderilen form bilgileri başka bir sayfada görüntülenecek. 
+    -  Projenin içindeki stiller (renk, yazı tipi, vs.) ayrı bir stil dosyasında tutulacak.
+
+
+
