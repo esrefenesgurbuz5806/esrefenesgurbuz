@@ -18,7 +18,6 @@
     -İletişim formundaki gerekli kontrol işlemleri  javascript kullanılarak denetlenecek. 
     -Form, temizle ve gönder butonları içerecek.
     -Gönderilen form bilgileri başka bir sayfada görüntülenecek. 
-    -  Projenin içindeki stiller (renk, yazı tipi, vs.) ayrı bir stil dosyasında tutulacak.
-
+    -Projenin içindeki stiller  ayrı bir stil dosyasında tutulacak. 
 
 
